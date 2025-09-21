@@ -1,10 +1,10 @@
 
-import FilterGelry from "./Components/FilterGelry";
+import Todo from "./Components/Todo";
 
 const App = () => {
   return (
     <div>
-      <FilterGelry />
+      <Todo />
     </div>
   );
 };
